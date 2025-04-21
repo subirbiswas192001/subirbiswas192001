@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **subirbiswas192001@gmail.com , 20010056@cgu-odisha.ac.in**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1s_KjNW308cV2NZDT_oZdHDnt_wGiBCES/view?usp=sharing](https://drive.google.com/file/d/1s_KjNW308cV2NZDT_oZdHDnt_wGiBCES/view?usp=sharing)
+- 📄 CV (Curriculum Vitae) [https://drive.google.com/file/d/1s_KjNW308cV2NZDT_oZdHDnt_wGiBCES/view?usp=sharing](https://drive.google.com/file/d/1s_KjNW308cV2NZDT_oZdHDnt_wGiBCES/view?usp=sharing)
 
 - ⚡ Fun fact **I believe every dataset has a story waiting to be discovered!**
 
