@@ -12,15 +12,15 @@
 
 - 👯 I’m looking to collaborate on **Artificial Intelligence-related project**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/subir-biswas-ab5932210/](https://www.linkedin.com/in/subir-biswas-ab5932210/)
+- 👨‍💻 Visit My [Webiste](https://subirbiswas192001.github.io/subir-web/)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/subir-biswas-ab5932210/](https://www.linkedin.com/in/subir-biswas-ab5932210/)
+- 📝 I regularly write articles on [Linkdin](https://www.linkedin.com/in/subir-biswas-ab5932210/)
 
 - 💬 Ask me about **🙏**
 
 - 📫 How to reach me **subirbiswas192001@gmail.com , 20010056@cgu-odisha.ac.in**
 
-- 📄 CV (Curriculum Vitae) [https://drive.google.com/file/d/1s_KjNW308cV2NZDT_oZdHDnt_wGiBCES/view?usp=sharing](https://drive.google.com/file/d/1s_KjNW308cV2NZDT_oZdHDnt_wGiBCES/view?usp=sharing)
+- 📄 Plz find my [Resume](https://drive.google.com/file/d/1s_KjNW308cV2NZDT_oZdHDnt_wGiBCES/view?usp=sharing)
 
 - ⚡ Fun fact **I believe every dataset has a story waiting to be discovered!**
 
