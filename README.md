@@ -3,8 +3,13 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=4000&color=36BCF7&center=true&vCenter=true&width=900&lines=Assistant+Professor+%7C+AI+Researcher;Machine+Learning+%26+Data+Science+Enthusiast;Computer+Vision+Researcher;Future+Data+Scientist+and+AI+Expert" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=4000&color=36BCF7&center=true&vCenter=true&width=900&lines=Machine+Learning+%26+Data+Science+Enthusiast;Computer+Vision+Researcher;Future+Data+Scientist+and+AI+Expert" />
 </p>
+
+
+<!-- <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=4000&color=36BCF7&center=true&vCenter=true&width=900&lines=Assistant+Professor+%7C+AI+Researcher;Machine+Learning+%26+Data+Science+Enthusiast;Computer+Vision+Researcher;Future+Data+Scientist+and+AI+Expert" />
+</p> -->
 
 <img align="right" alt="Coding" width="400" src="https://github.com/subirbiswas192001/subirbiswas192001/blob/main/8PP5vBfxGm.gif">
 
