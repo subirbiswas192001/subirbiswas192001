@@ -1,4 +1,4 @@
-![logo](https://github.com/subirbiswas192001/subirbiswas192001/blob/main/new.png)
+![logo](https://github.com/subirbiswas192001/subirbiswas192001/blob/main/Subir-biswas-github-cover.png)
 <h1 align="center">Hi 👋, I'm Subir Biswas, B.Tech (CSE)</h1>
 <h3 align="center">Evolving Towards Becoming a Data Scientist and AI Expert</h3>
 
