@@ -133,21 +133,9 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=subirbiswas192001&theme=algolia&row=1&column=7" />
-</p>
-
----
-
 ## 📊 GitHub Statistics
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subirbiswas192001&show_icons=true&locale=en&layout=compact" alt="subirbiswas192001" /></p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subirbiswas192001&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subirbiswas192001&" alt="subirbiswas192001" /></p>
 
