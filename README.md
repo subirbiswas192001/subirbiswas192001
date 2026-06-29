@@ -145,10 +145,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=subirbiswas192001&theme=github-compact" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subirbiswas192001&theme=xcode" />
-</p>
-
 ---
 
 ## 🌐 Connect With Me
