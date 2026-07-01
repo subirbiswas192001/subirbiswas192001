@@ -35,7 +35,7 @@
 
 - 📫 How to reach me **subirbiswas192001@gmail.com , 20010056@cgu-odisha.ac.in**
 
-- 📄 **Plz find my [Resume](https://drive.google.com/file/d/1s_KjNW308cV2NZDT_oZdHDnt_wGiBCES/view?usp=sharing)**
+- 📄 **Plz find my [Resume](https://drive.google.com/file/d/1aSpvLvkmJjyXXsUsP5Ysg_NbZRL0j-vz/view?usp=sharing)**
 
 ---
 
